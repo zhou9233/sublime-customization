@@ -1,0 +1,16 @@
+[{
+  "keys": ["ctrl+alt+h"],
+  "command": "htmlprettify"
+}, {
+  "keys": ["ctrl+shift+h", "p"],
+  "command": "htmlprettify_set_prettify_prefs"
+}, {
+  "keys": ["shift+alt+h", "o"],
+  "command": "htmlprettify_set_plugin_options"
+}, {
+  "keys": ["ctrl+shift+h", "k"],
+  "command": "htmlprettify_set_keyboard_shortcuts"
+}, {
+  "keys": ["ctrl+shift+h", "n"],
+  "command": "htmlprettify_set_node_path"
+}]

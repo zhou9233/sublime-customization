@@ -1,0 +1,587 @@
+{
+	"folder_history":
+	[
+		"/E/webglTest",
+		"/E/BIMsurfer-bimsurfer-gulp",
+		"/E/BIMsurfer-bimsurfer-0.0.43/output2",
+		"/E/BIMsurfer-bimsurfer-0.0.43"
+	],
+	"last_version": 3176,
+	"last_window_id": 7,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"p",
+						"pipe"
+					],
+					[
+						"ou",
+						"output2/"
+					],
+					[
+						"sc",
+						"src"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"t",
+						"task"
+					],
+					[
+						"g",
+						"gulp"
+					],
+					[
+						"c",
+						"Control/"
+					],
+					[
+						"s",
+						"src"
+					],
+					[
+						"de",
+						"dest"
+					],
+					[
+						"fun",
+						"function〔keyword〕"
+					],
+					[
+						"backgr",
+						"background-color\tproperty"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/SASS Build/SASS - Compressed.sublime-build",
+							""
+						],
+						[
+							"Packages/SASS Build/SASS.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/SASS Build/SASS - Compressed.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"pcr",
+						"Package Control: Remove Package"
+					],
+					[
+						"pci\\",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 401.0,
+				"history":
+				[
+					"ifconfig",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/Sublime3/Data/Packages/Emmet/Emmet.sublime-settings",
+				"/E/Sublime3/Data/Packages/User/Emmet.sublime-settings",
+				"/E/Sublime3/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/E/webglTest/webgl",
+				"/E/BIMsurfer-bimsurfer-gulp/package.json",
+				"/E/BIMsurfer-bimsurfer-gulp/gulpfile.js",
+				"/E/BIMsurfer-bimsurfer-gulp/authorGruntfile.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/gulpfile.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/output2/css/bimsurfer.min.css",
+				"/E/BIMsurfer-bimsurfer-0.0.43/output2/icon.png",
+				"/E/BIMsurfer-bimsurfer-0.0.43/authorGruntfile.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/pom.xml",
+				"/E/BIMsurfer-bimsurfer-0.0.43/css/example5.css",
+				"/E/BIMsurfer-bimsurfer-0.0.43/images/ajax-loader.gif",
+				"/E/BIMsurfer-bimsurfer-0.0.43/output2/bimsurfer.min.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/package.json",
+				"/E/BIMsurfer-bimsurfer-0.0.43/api/BIMSURFER.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/tmp/bimsurfer.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/api/Control.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/target/css/test.css",
+				"/E/BIMsurfer-bimsurfer-0.0.43/css/test.scss",
+				"/E/BIMsurfer-bimsurfer-0.0.43/README.markdown",
+				"/E/BIMsurfer-bimsurfer-0.0.43/target/css/basic.css",
+				"/E/BIMsurfer-bimsurfer-0.0.43/target/api/AsyncStream.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/target/basic.css",
+				"/E/BIMsurfer-bimsurfer-0.0.43/api/AsyncStream.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/Gruntfile.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/api/Events.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/lib/scenejs/scenejs.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/api/ProgressLoader.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/api/Viewer.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/css/test.css",
+				"/E/BIMsurfer-bimsurfer-0.0.43/css/example1.css",
+				"/E/BIMsurfer-bimsurfer-0.0.43/index.html",
+				"/E/BIMsurfer-bimsurfer-0.0.43/css/example2.css",
+				"/E/BIMsurfer-bimsurfer-0.0.43/lib/jquery-1.10.2/jquery-1.10.2.js",
+				"/E/Sublime3/Data/Packages/User/ColorHighlighter.sublime-settings",
+				"/E/Sublime3/Data/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/E/Sublime3/Data/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+				"/E/Sublime3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+				"/E/Sublime3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/E/Sublime3/Data/Packages/User/.jsbeautifyrc",
+				"/E/BIMsurfer-bimsurfer-0.0.43/css/example4.css",
+				"/E/Sublime3/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/E/Sublime3/Data/Packages/User/SublimeCodeIntel.sublime-settings"
+			],
+			"find":
+			{
+				"height": 45.0
+			},
+			"find_in_files":
+			{
+				"height": 119.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"5",
+					"li"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 416.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 319.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"w",
+						"width\tproperty"
+					],
+					[
+						"p",
+						"pipe"
+					],
+					[
+						"ou",
+						"output2/"
+					],
+					[
+						"sc",
+						"src"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"t",
+						"task"
+					],
+					[
+						"g",
+						"gulp"
+					],
+					[
+						"c",
+						"Control/"
+					],
+					[
+						"s",
+						"src"
+					],
+					[
+						"de",
+						"dest"
+					],
+					[
+						"fun",
+						"function〔keyword〕"
+					],
+					[
+						"backgr",
+						"background-color\tproperty"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/SASS Build/SASS - Compressed.sublime-build",
+							""
+						],
+						[
+							"Packages/SASS Build/SASS.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/SASS Build/SASS - Compressed.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"pcr",
+						"Package Control: Remove Package"
+					],
+					[
+						"pci\\",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 401.0,
+				"history":
+				[
+					"ifconfig",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/webglTest/webglBasics/day01/step2.html",
+				"/E/webglTest/webglBasics/day01/step1.html",
+				"/E/webglTest/hello.hm",
+				"/E/webglTest/helloCanvas.html",
+				"/E/webglTest/.step2.html",
+				"/E/Sublime3/Data/Packages/Emmet/Emmet.sublime-settings",
+				"/E/Sublime3/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/E/Sublime3/Data/Packages/User/Emmet.sublime-settings",
+				"/E/webglTest/webgl",
+				"/E/BIMsurfer-bimsurfer-gulp/package.json",
+				"/E/BIMsurfer-bimsurfer-gulp/gulpfile.js",
+				"/E/BIMsurfer-bimsurfer-gulp/authorGruntfile.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/gulpfile.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/output2/css/bimsurfer.min.css",
+				"/E/BIMsurfer-bimsurfer-0.0.43/output2/icon.png",
+				"/E/BIMsurfer-bimsurfer-0.0.43/authorGruntfile.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/pom.xml",
+				"/E/BIMsurfer-bimsurfer-0.0.43/css/example5.css",
+				"/E/BIMsurfer-bimsurfer-0.0.43/images/ajax-loader.gif",
+				"/E/BIMsurfer-bimsurfer-0.0.43/output2/bimsurfer.min.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/package.json",
+				"/E/BIMsurfer-bimsurfer-0.0.43/api/BIMSURFER.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/tmp/bimsurfer.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/api/Control.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/target/css/test.css",
+				"/E/BIMsurfer-bimsurfer-0.0.43/css/test.scss",
+				"/E/BIMsurfer-bimsurfer-0.0.43/README.markdown",
+				"/E/BIMsurfer-bimsurfer-0.0.43/target/css/basic.css",
+				"/E/BIMsurfer-bimsurfer-0.0.43/target/api/AsyncStream.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/target/basic.css",
+				"/E/BIMsurfer-bimsurfer-0.0.43/api/AsyncStream.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/Gruntfile.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/api/Events.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/lib/scenejs/scenejs.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/api/ProgressLoader.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/api/Viewer.js",
+				"/E/BIMsurfer-bimsurfer-0.0.43/css/test.css",
+				"/E/BIMsurfer-bimsurfer-0.0.43/css/example1.css",
+				"/E/BIMsurfer-bimsurfer-0.0.43/index.html",
+				"/E/BIMsurfer-bimsurfer-0.0.43/css/example2.css",
+				"/E/BIMsurfer-bimsurfer-0.0.43/lib/jquery-1.10.2/jquery-1.10.2.js",
+				"/E/Sublime3/Data/Packages/User/ColorHighlighter.sublime-settings",
+				"/E/Sublime3/Data/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/E/Sublime3/Data/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+				"/E/Sublime3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+				"/E/Sublime3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/E/Sublime3/Data/Packages/User/.jsbeautifyrc",
+				"/E/BIMsurfer-bimsurfer-0.0.43/css/example4.css",
+				"/E/Sublime3/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/E/Sublime3/Data/Packages/User/SublimeCodeIntel.sublime-settings"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 119.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"tab",
+					"5",
+					"li"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 416.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,663,125,125,781",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 319.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 6,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

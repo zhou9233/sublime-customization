@@ -1,0 +1,4 @@
+{
+    "ha_style": "filled",
+    "file_extensions": [".css", ".less", ".scss", ".sass", ".styl", ".html", ".js"]
+}
